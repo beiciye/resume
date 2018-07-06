@@ -4,7 +4,7 @@
 * 学校:武汉工程大学    本科(2011.09-2015.06) 制药工程
 * 工作经验:3年经验（2年前端，1年golang后端）
 * 技术栈: react, typescript, golang
-* 前端模块化，工程化都有一定实践，使用 react + typescript 构建过大型 webapp 单页应用。 技术上使用过 typescript, react, redux, webpack, scss
+* 前端模块化，工程化都有一定实践，使用 react + typescript 构建过大型 webapp 单页应用。 技术上熟练使用 typescript, react, redux, webpack, scss 进行开发
 * 最近一年都在写 golang，在微服务上有一定的实践，参与过公司技术框架的搭建。深入了解过 grpc 和 redis 源码实现
 
 > ### ezbuy     2016.06-2018.07
