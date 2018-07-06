@@ -31,7 +31,7 @@
 #### 前端开发 2016.06-2017.07
 ### 工作内容
 * 负责整个公司移动端页面的开发，主要是m站( https://m.ezbuy.sg ) 的开发，独自完成项目搭建和功能开发。
-* m站使用 typescript 和 react 来开发，整体作为一个单页应用，使用 webpack 分模块打包各个项目，按需加载各个模块。
+* m站使用 typescript 和 react 来开发，整体作为一个单页应用，使用 webpack 分模块打包各个项目，按需加载各个模块。
 * 完整参与搭建过 google analysis 的数据追踪。
 * 对 google 搜索引擎 的 seo 策略有一定的了解。
 * 客串运营后台的开发，此项目大量使用 react 全家桶，react, redux, mobx, webpack, antd。
